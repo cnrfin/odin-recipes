@@ -1,0 +1,29 @@
+* {
+    font-family: verdana, DejaVu Sans, sans-serif;
+}
+
+h1, h2, a  {
+    color: #14afb2;
+}
+
+a {
+    font-size: 20px;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+ul, ol, p {
+    line-height: 2em;
+    color: #333;
+}
+
+p {
+    line-height: 1.5em;
+}
+
+#nav {
+    color: rgb(47, 89, 90);
+}
